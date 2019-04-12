@@ -1,0 +1,9 @@
+#! /usr/bin/python
+#coding=utf-8
+import pytest
+
+def test_demo1():
+    assert 1==1
+
+def test_demo2():
+    assert 2==3
